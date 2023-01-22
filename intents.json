@@ -1,0 +1,82 @@
+{
+
+  "intents": [
+
+    {
+      "tag": "discount",
+
+      "responses": [
+        "Yes, we have discount on skin care appointments"
+      ]
+    },
+
+    {
+      "tag": "typesofappointments",
+
+      "responses": [
+        "We offer: Dentistry (On-site) for 10-150 USD per session\n General Health Care (On-site) for 0-30 USD per session\n Psychiatry (Online) for 200 USD per session"
+      ]
+    },
+
+    {
+      "tag": "thanks",
+
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+
+    {
+      "tag": "appointment",
+
+      "responses": [
+        "You can book an appointment by clicking this link: appointments.html",
+        "Go to the appointment page using this link: appointments.html"
+      ]
+    },
+    {
+      "tag": "payments",
+
+      "responses": [
+        "We accept VISA, Mastercard and Paypal",
+        "We accept most major credit cards, and Paypal"
+      ]
+    },
+
+    {
+      "tag": "only_letters",
+
+      "responses": [
+        "You can only input letters.",
+        "Only type letters in your question please."
+      ]
+    },
+
+    {
+      "tag": "didn't_understand",
+
+      "responses": [
+        "I couldn't process your question, please rephrase it.",
+        "Please describe what you want more accurately, or rephrase your question."
+      ]
+    },
+
+    {
+      "tag": "price",
+
+      "responses": [
+        "Here are our prices: \nDentistry (On-site) for 10-150 USD per session\n General Health Care (On-site) for 0-30 USD per session\n Psychiatry (Online) for 200 USD per session",
+        "Prices for an appointment: \nDentistry (On-site) for 10-150 USD per session\n General Health Care (On-site) for 0-30 USD per session\n Psychiatry (Online) for 200 USD per session"
+      ]
+    },
+        {
+      "tag": "funny",
+
+      "responses": [
+        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+        "What did the buffalo say when his son left for college? Bison."
+      ]
+    }
+
+
+
+  ]
+}
